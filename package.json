@@ -1,0 +1,17 @@
+{
+  "name": "nvidia-3080-bot",
+  "version": "1.0.0",
+  "description": "Checks if NVIDIA 3080 graphics card is in stock",
+  "main": "buyit.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaiah Reed",
+  "license": "ISC",
+  "type": "module"
+}
